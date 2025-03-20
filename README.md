@@ -36,4 +36,3 @@ LinkedIn: Abenezer Alemayehu
 Phone: 0935651441
 GitHub: Abena-3565
 
-Just copy this entire section and paste it directly into your `README.md` file in the repository. This will provide a comprehensive overview of your project along with the necessary contact information and instructions.
